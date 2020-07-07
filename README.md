@@ -1,2 +1,2 @@
 # hello-world
-# This is judt an extra bit of info.
+# This is just an extra bit of info.
